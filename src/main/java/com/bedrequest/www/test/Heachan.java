@@ -2,9 +2,10 @@ package com.bedrequest.www.test;
 
 public class Heachan {
     // test Heachan
-    private int hachan;
-    // 머지 테스토스테론
-    // 확인안할거지롱
+  
+    private String hahachan;
+    // 머지 테스트
+    // 확인해주세요.
     // 수정하기
     // 추가추가추가
 }
