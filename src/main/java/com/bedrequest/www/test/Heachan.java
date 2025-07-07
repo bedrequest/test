@@ -5,4 +5,5 @@ public class Heachan {
     private int hachan;
     // 머지 테스트
     // 확인해주세요.
+    // 수정하기
 }
